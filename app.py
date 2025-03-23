@@ -21,7 +21,7 @@ except FileNotFoundError as e:
 # st.write("Number of Expected Features:", len(feature_names))
 
 # Streamlit UI
-st.title("🛌 Sleep Disorder Prediction")
+st.title("🛌 Sleep Disorder Prediction ")
 st.markdown("Enter your details below to predict if you might have a sleep disorder:")
 
 # Model selection
