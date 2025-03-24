@@ -13,5 +13,5 @@ seaborn==0.13.2
 # Streamlit for the web app
 streamlit==1.32.0
 
-# For saving models and preprocessing objects
+
 pickle-mixin==1.0.2
